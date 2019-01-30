@@ -1,0 +1,23 @@
+h3,
+h4 {
+  font-family: sans-serif;
+}
+
+div {
+  font-family: sans-serif;
+}
+
+.radioGroup label {
+  display: inline-block;
+  font-family: sans-serif;
+  margin: 0.5em 0.5em;
+  text-align: center;
+}
+.radioGroup label input[type="radio"] {
+  font-family: inherit;
+  margin: 1em auto;
+}
+
+ul {
+  list-style-type: none;
+}
