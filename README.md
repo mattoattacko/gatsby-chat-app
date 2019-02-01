@@ -27,6 +27,8 @@
 
 * React and Vue are both popular JavaScript frameworks for building interactive applications. React is backed and used by Facebook, and although Vue isn’t backed by a corporation, it's very popular in the open source community.
 
+*  React app has CSS files, whereas the Vue app doesn’t have any. The reason for this is because, in create-react-app, a React component will have an accompanying file to hold its styles, whereas Vue CLI adopts an all encompassing approach, where the styles are declared inside the actual component file. Both achieve the same result.
+
 * Both frameworks are full-featured and would work well for most developers. There are really no major drawbacks between Vue and React, it more boils down which approach you prefer.
 
 * React is still more JavaScript-y in how you render components and pass properties around. You’re definitely more decoupled from your templates.
