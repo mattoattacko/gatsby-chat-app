@@ -7,9 +7,9 @@
 
 ### Overall Score and Comments
 #### Score (Out of 10): 9
-#### General
+## General
 
-# Gatsby.js
+#### Gatsby.js
 
 * Usually when you visit a website that has some dynamic content, the browser sends a request for that page to a server. The server receives our request, fetches the data for the page we want from a database, and then loads a user interface template. The template and the data are then combined and a response for that page is sent. This is how a dynamic site works.
 
@@ -17,7 +17,7 @@
 
 * Gatsby also performs prefetching. After a page is loaded, it fetches data for all the other pages that are linked on the loaded page. This makes our user's navigation experience much faster overall. 
 
-# Vue.js
+#### Vue.js
 
 * Vue.js is a progressive, incrementally-adoptable JavaScript framework for building ueser interfaces on the web. 
 
@@ -33,7 +33,7 @@
 
 * Vue is still template and attribute based, and is probably a better choice if you’re looking to integrate a new framework into an existing JavaScript application.
 
-#### Pros
+### Pros
 
 * Easily migrate code from a React app. 
 
@@ -45,7 +45,7 @@
 
 * Vue seems to take SSR a bit more seriously with their community-built SSR library – Nuxt.js, and provide docs on how to render Vue templates with PHP. It’s basically a server rendering your JS templates to HTML, and setting up state management (if you’re using it) and routing on the server.
 
-#### Cons
+### Cons
 
 * As far as I can tell there is no equivalent in Vue for React’s Context API. That’s not too surprising because Vuex largely provides similar functionality with a ‘store pattern’ making shared state a bit easier for simpler applications.
 
