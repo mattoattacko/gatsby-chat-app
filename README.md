@@ -1,12 +1,12 @@
-![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
+![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis: Vue.js vs React
 =======================================================================
 
-## Gatsby
+# Vue.js
 
-### Research Conducted By: Kevin O'Halloran, Matthew McQuain, James Denton, Brandon Haynes
+#### Research Conducted By: Kevin O'Halloran, Matthew McQuain, James Denton, Brandon Haynes
 
-### Overall Score and Comments
-#### Score (Out of 10): 9
+##### Overall Score (Out of 10): 9
+
 ## General
 
 #### Gatsby.js
